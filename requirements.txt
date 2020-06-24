@@ -1,3 +1,2 @@
 pygame
-libSDL_mixer-1_2
 libSDL_ttf-2
