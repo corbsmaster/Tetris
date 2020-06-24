@@ -1,1 +1,6 @@
 pygame
+libSDL-1_2
+libSDL_devel
+libSDL_image-1_2
+libSDL_mixer-1_2
+libSDL_ttf-2
